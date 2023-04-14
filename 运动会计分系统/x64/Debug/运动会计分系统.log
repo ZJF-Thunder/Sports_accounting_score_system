@@ -1,0 +1,22 @@
+﻿  Main.cpp
+  Menu.cpp
+  Password.cpp
+  Project.cpp
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(937,39): warning C4101: “p”: 未引用的局部变量
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1018,39): warning C4101: “p”: 未引用的局部变量
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1060,39): warning C4101: “p”: 未引用的局部变量
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1261,53): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1261,53): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1262,53): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1262,53): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1263,53): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1263,53): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1264,53): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1264,53): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1265,53): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(1265,53): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  正在生成代码...
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(680): warning C4715: “CollegeNodeDel”: 不是所有的控件路径都返回值
+C:\Users\zjf\Desktop\运动会计分系统\Project.cpp(500): warning C4715: “CollegeModify”: 不是所有的控件路径都返回值
+C:\Users\zjf\Desktop\运动会计分系统\Password.cpp(77): warning C4715: “Password”: 不是所有的控件路径都返回值
+  运动会计分系统.vcxproj -> C:\Users\zjf\Desktop\运动会计分系统\x64\Debug\运动会计分系统.exe
